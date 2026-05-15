@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     A[<b>Analysis</b>] --> B[<b>Design</b>]
     B --> C[<b>Development</b>]
